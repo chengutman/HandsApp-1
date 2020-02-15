@@ -1,3 +1,3 @@
 # HandsApp
-HandsApp React nodejs project
+HandsApp React  project
 this is an edit
